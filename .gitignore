@@ -109,3 +109,12 @@ venv.bak/
 *.hdf5
 *.nc
 *.tif
+
+# Fortran and Tapenade
+**/*.msg
+**/*_b.f90
+**/*_d.f90
+**/*.o
+**/*.mod
+**/ad
+**/results*
