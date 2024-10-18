@@ -12,4 +12,4 @@ The direcotry `ADFirstAidKit` contains some Tapenade files and comes with the st
 
 ## More resources
 
-Refer [here](https://sicopolis.readthedocs.io/en/latest/AD/tutorial_tapenade.html) and [here](https://ecco-hackweek.github.io/ecco-2024/tutorials/AD_tuts/tutorial_tapenade_mountain_glacier.html) for a more detailed introduction to each of the files and the mountain glacier model itself.
+Refer [here](https://sicopolis.readthedocs.io/en/latest/AD/tutorial_tapenade.html) and [here](https://ecco-hackweek.github.io/ecco-2024/tutorials/AD_tuts/tutorial_tapenade_mountain_glacier.html) for a more detailed introduction to each of the files and the mountain glacier model itself. [Here](https://github.com/Shreyas911/ECCO_Hackweek_Mountain_Glacier_1D) is a standalone git repo with this same code.
