@@ -1,6 +1,6 @@
 if !isdefined(Main,:Enzyme)
-    using Pkg; Pkg.activate(temp=true)
-    Pkg.add.(["Enzyme", "Plots", "Statistics", "Printf"])
+    path0=joinpath(dirname(@__FILE__),"..")
+    using Pkg; Pkg.activate(path0); Pkg.instantiate();
 end
 
 using Printf
