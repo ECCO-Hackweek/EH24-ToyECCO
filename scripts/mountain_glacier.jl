@@ -1,3 +1,8 @@
+if !isdefined(Main,:Enzyme)
+    using Pkg; Pkg.activate(temp=true)
+    Pkg.add.(["Enzyme", "Plots", "Statistics", "Printf"])
+end
+
 using Printf
 using Statistics
 using Plots
