@@ -18,23 +18,19 @@ AD tools are hard to compare across different languages and algorithms because t
 
 🚀🚀🚀 `report/Toy ECCO Slide.pdf` 🚀🚀🚀
 
-### `notebooks/` folder
+### `notebooks` and `scripts` folders
 
-- `ForwardDiff_Zygote_Enzyme.ipynb`
-- `L96.ipynb`
-- `L96_torch_jax.ipynb`
-- `bulkformulae_optimization.ipynb`
-- `optim_and_enzyme.ipynb`
-
-
-### `scripts/` folder
-
-- `mountain_glacier.jl`
-- `mountain_glacier_f90_model`
-- `mountain_glacier_torch_jax.ipynb`
+- [bulkformulae_optimization.ipynb]()
+- [L96.ipynb](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/notebooks/L96.ipynb)
+- [L96_torch_jax.ipynb](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/notebooks/L96_torch_jax.ipynb)
+- [mountain_glacier.jl](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/scripts/mountain_glacier.jl)
+- [mountain_glacier_f90_model](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/scripts/mountain_glacier_f90_model)
+- [mountain_glacier_torch_jax.ipynb](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/scripts/mountain_glacier_torch_jax.ipynb)
+- [ForwardDiff_Zygote_Enzyme.ipynb](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/notebooks/ForwardDiff_Zygote_Enzyme.ipynb)
+- [optim_and_enzyme.ipynb](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/notebooks/optim_and_enzyme.ipynb)
 
 ### environment files 
 
-- `Manifest.toml`
-- `Project.toml`
-- `environment.yml`
+- [environment.yml](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/environment.yml)
+- [Project.toml](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/Project.toml)
+- [Manifest.toml](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/Manifest.toml)
