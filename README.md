@@ -20,7 +20,7 @@ AD tools are hard to compare across different languages and algorithms because t
 
 ### `notebooks` and `scripts` folders
 
-- [bulkformulae_optimization.ipynb]()
+- [bulkformulae_optimization.ipynb](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/notebooks/bulkformulae_optimization.ipynb)
 - [L96.ipynb](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/notebooks/L96.ipynb)
 - [L96_torch_jax.ipynb](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/notebooks/L96_torch_jax.ipynb)
 - [mountain_glacier.jl](https://github.dev/ECCO-Hackweek/EH24-ToyECCO/blob/main/scripts/mountain_glacier.jl)
