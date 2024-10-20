@@ -16,7 +16,7 @@ AD tools are hard to compare across different languages and algorithms because t
 
 ### Summary slide
 
-🚀🚀🚀 `report/Toy ECCO Slide.pdf` 🚀🚀🚀
+🚀🚀🚀 [report/Toy ECCO Slide.pdf](https://github.com/ECCO-Hackweek/EH24-ToyECCO/blob/70a0e65bf936187d34b6c0e8599f565170ff2955/report/Toy%20ECCO%20Slide.pdf) 🚀🚀🚀
 
 ### `notebooks` and `scripts` folders
 
