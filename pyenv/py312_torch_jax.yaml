@@ -1,0 +1,50 @@
+name: py312_torch_jax
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+  - main
+dependencies:
+    - python=3.12
+# Basics
+    - numpy
+    - scipy
+    - future
+    - pip
+    - pip:
+      # Torch
+      - torchtext
+      - torchaudio
+      - tensorboard
+# Torch
+    - pytorch
+    - torchvision
+    - torchtext
+    - torchaudio
+# Jax
+    - jax
+# xarray et al
+    - xarray
+    - netCDF4
+    - dask
+# plotting resampling
+    - cartopy
+    - cmocean
+# jupyter etc
+    - jupyter
+    - jupyterlab
+    - ipython
+    - ipykernel
+# etc
+    - numba
+    - h5py
+    - hdf4
+    - hdf5
+# Specify blas to use mkl
+    - mkl
+    - libblas=*=*mkl
+# scikit-learn
+    - scikit-learn
+# typing-hints
+    - beartype
